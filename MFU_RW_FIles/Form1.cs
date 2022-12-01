@@ -112,9 +112,9 @@ namespace WindowsFormsApp9
             WorkBook workbook = WorkBook.Load(txt_logfile.Text);
             WorkSheet sheet = workbook.WorkSheets.First();
 
-            //This is how we get range from Excel worksheet
+            //Citirea randurilor dintr-un anumit interval de pe o coloana
             var range = sheet[rangeDeCitit];
-            //This is how we can iterate over our range and read or edit any cell
+            //Citirea valorilor din fiecare celula si introducerea lor in lista
             foreach (var cell in range)
             {
                 numere.Add(cell.Value.ToString());
