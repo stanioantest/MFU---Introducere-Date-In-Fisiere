@@ -132,7 +132,7 @@ namespace WindowsFormsApp9
                 sheet2["C" + (i + 5)].First().FormatString = "0.000";
                 //  sheet2["C" + (i + 5)].NumberFormat = "##.000";
             }
-            //Save Changes
+            //Salvarea modificarilor
             workbook2.SaveAs(deScris);
         }
 
