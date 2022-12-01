@@ -1,0 +1,153 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApp9.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="txt_logfile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\02.DataLogFile_31.10.2022.xlsx</Value>
+    </Setting>
+    <Setting Name="txt_st10_flowVolume" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST10_FlowVolume.xlsm</Value>
+    </Setting>
+    <Setting Name="txt_st10_weldingDistance" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST10_WeldingDistance.xlsm</Value>
+    </Setting>
+    <Setting Name="txt_st40_point1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST40_Point_1.xlsm</Value>
+    </Setting>
+    <Setting Name="txt_st40_point2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST40_Point_2.xlsm</Value>
+    </Setting>
+    <Setting Name="txt_st40_point3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST40_Point_3.xlsm</Value>
+    </Setting>
+    <Setting Name="txt_st40_point4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST40_Point_4.xlsm</Value>
+    </Setting>
+    <Setting Name="txt_st40_point5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST40_Point_5.xlsm</Value>
+    </Setting>
+    <Setting Name="txt_st40_point6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST40_Point_6.xlsm</Value>
+    </Setting>
+    <Setting Name="txt_st60_welding_distance" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST60_Welding_Distance.xlsm</Value>
+    </Setting>
+    <Setting Name="txt_st70_plug_force" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST70_Plug_Force.xlsm</Value>
+    </Setting>
+    <Setting Name="txt_st80_insulation_resistance_hv" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST80_Insulation_Resistance_HV.xlsm</Value>
+    </Setting>
+    <Setting Name="st10FlowVolumeRange" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AVX2:AVX51</Value>
+    </Setting>
+    <Setting Name="st10WeldingDistanceRange" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AUM2:AUM51</Value>
+    </Setting>
+    <Setting Name="st40_point1_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BJI2:BJI51</Value>
+    </Setting>
+    <Setting Name="st40_point2_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BJP2:BJP51</Value>
+    </Setting>
+    <Setting Name="st40_point3_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BJW2:BJW51</Value>
+    </Setting>
+    <Setting Name="st40_point4_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BKD2:BKD51</Value>
+    </Setting>
+    <Setting Name="st40_point5_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BKK2:BKK51</Value>
+    </Setting>
+    <Setting Name="st40_point6_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BKR2:BKR51</Value>
+    </Setting>
+    <Setting Name="st60_welding_distance_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BPU2:BPU51</Value>
+    </Setting>
+    <Setting Name="st70_plug_force_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BDV2:BDV51</Value>
+    </Setting>
+    <Setting Name="st80_insulation_resistance_hv_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BAA2:BAA51</Value>
+    </Setting>
+    <Setting Name="txt_st80_leak_test" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST80_Leak_Test.xlsm</Value>
+    </Setting>
+    <Setting Name="st80_leak_test_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AXA2:AXA51</Value>
+    </Setting>
+    <Setting Name="txt_st80_resistivity_cp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST80_Resistivity_CP.xlsm</Value>
+    </Setting>
+    <Setting Name="st80_resistivity_cp_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AYK2:AYK51</Value>
+    </Setting>
+    <Setting Name="txt_st80_resistivity_pe_to_cp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST80_Resistivity_PE_to_CP.xlsm</Value>
+    </Setting>
+    <Setting Name="st80_resistivity_pe_to_cp_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AYD2:AYD51</Value>
+    </Setting>
+    <Setting Name="txt_st80_resistivity_pp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST80_Resistivity_PP.xlsm</Value>
+    </Setting>
+    <Setting Name="st80_resistivity_pp_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AYR2:AYR51</Value>
+    </Setting>
+    <Setting Name="txt_st80_temperature_dc_minus" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST80_Temperature_DC_minus.xlsm</Value>
+    </Setting>
+    <Setting Name="st80_temperature_dc_minus_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AYY2:AYY51</Value>
+    </Setting>
+    <Setting Name="txt_st80_temperature_dc_plus" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST80_Temperature_DC_plus.xlsm</Value>
+    </Setting>
+    <Setting Name="st80_temperature_dc_plus_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AZF2:AZF51</Value>
+    </Setting>
+    <Setting Name="txt_st90_pin_length_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST90_Pin_Length_1.xlsm</Value>
+    </Setting>
+    <Setting Name="st90_pin_length_1_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BEN2:BEN51</Value>
+    </Setting>
+    <Setting Name="txt_st90_pin_length_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST90_Pin_Length_2.xlsm</Value>
+    </Setting>
+    <Setting Name="st90_pin_length_2_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BEU2:BEU51</Value>
+    </Setting>
+    <Setting Name="txt_st90_pin_length_3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST90_Pin_Length_3.xlsm</Value>
+    </Setting>
+    <Setting Name="st90_pin_length_3_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BFB2:BFB51</Value>
+    </Setting>
+    <Setting Name="txt_st90_pin_length_5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST90_Pin_Length_5.xlsm</Value>
+    </Setting>
+    <Setting Name="st90_pin_length_5_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BFP2:BFP51</Value>
+    </Setting>
+    <Setting Name="txt_st90_pin_length_6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST90_Pin_Length_6.xlsm</Value>
+    </Setting>
+    <Setting Name="st90_pin_length_6_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BFW2:BFW51</Value>
+    </Setting>
+    <Setting Name="txt_st90_pin_length_7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST90_Pin_Length_7.xlsm</Value>
+    </Setting>
+    <Setting Name="st90_pin_length_7_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BGD2:BGD51</Value>
+    </Setting>
+    <Setting Name="txt_st90_pin_length_8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Roboti\MFU\MFU_ST90_Pin_Length_8.xlsm</Value>
+    </Setting>
+    <Setting Name="st90_pin_length_8_Range" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BGK2:BGK51</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
